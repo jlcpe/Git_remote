@@ -32,4 +32,10 @@
 * git log --oneline 
 	- condensed version of git log
 * git push
-	- uploading files to repository
+	- uploading files to repository from local to remote repo
+* git clone
+	- creating a copy of a remote repo on your local repo
+* git pull 
+	- retrieving changes from a remote repo and merges them into your local repo
+* git fork
+	- creating a copy of an existing repository on a remote hosting platform [GitHub]
